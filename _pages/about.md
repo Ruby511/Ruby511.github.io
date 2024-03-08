@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>University of Toronto</a>. 27 King's College Cir, Toronto, ON, M5R 0A3.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: website-pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
