@@ -22,4 +22,4 @@ Years ago in a boring afternoon of Yunnan, it suddenly hit me that every soul wi
 
 I have been deeply fascinated by the idea to build a systematic landscape of the nervous system that bridges the fast-scaling data from micro to macro neural architectures in order to understand interactions within and between genetic and neural networks in the course of behaviour. If we could decompose the complex genetic regulatory network underlying the development and function of our nervous system as a delicate control system, we could decipher the intricate genetic and environmental factors rooting behind the neurological disorders that plagued my grandfather and millions of others year after year. 
 
-Not any closer to an answer yet, but check back on my safari!!
+Not any closer to an answer yet, but check back on my safari!
