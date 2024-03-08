@@ -2,18 +2,21 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+title: Check Rubyyyyy here! # the website title (if blank, full name will be used instead)
+first_name: Congrong
+middle_name: 
+last_name: He
+email: ruby.he@mail.utoronto.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
+  Years ago on a boring afternoon in Yunnan, I learned that every soul will flow. For the first time, I asked: What makes us so dynamic at the first place, and at the end why we become limited? 
+  I wondered if we could decompose the complex genetic regulatory network underlying the development and function of our nervous system as a delicate control system, 
+  and decipher the intricate genetic and environmental factors rooting behind the neurological disorders that plagued my grandfather and millions of others year after year. 
+  Since then, I have been deeply fascinated by the idea to build a systematic landscape of the nervous system that bridges the fast-scaling data from micro to macro neural architectures, 
+  and understand interactions within and between genetic and neural networks in the course of behaviour. Despite that I am never closer to an answer, I want to talk to you whether you ever ask the same question i had.
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: neuroscience, system biology, molecular biology, quantitative biology # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
