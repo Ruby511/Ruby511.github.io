@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Toronto</a>. 27 King's College Cir. ruby.he@mail.utoronto.ca
+subtitle: <a href='#'>University of Toronto</a>.   27 King's College Cir.   ruby.he@mail.utoronto.ca
 
 profile:
   align: right
   image: website-pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Cell ans Systems Biology</p>
-    <p>Ramsay Wright Laboratories, ON M5S 3G5</p>
-    <p>Toronto, Ontairo, Canada</p>
+    <p>Department of Cell and Systems Biology</p>
+    <p>Ramsay Wright Laboratories. ON M5S 3G5</p>
+    <p>Toronto. Ontairo. Canada</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
