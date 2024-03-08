@@ -7,7 +7,7 @@ subtitle: <a href='#'>University of Toronto</a>. 27 King's College Cir, Toronto,
 profile:
   align: right
   image: website-pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
