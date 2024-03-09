@@ -22,5 +22,5 @@ Foundation of Eigenworm study:
     </div>
 </div>
 <div class="caption">
-    Amplitude heatmap of eigenworm 1&2 across time.
+    Yemini et al. Worm Tracker 2.0 (WT2) from Schafer Lab.
 </div>
