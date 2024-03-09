@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Worms in Low Dimensions: Eigenworms and qunatitative analysis in C.elegans ethology.
+title: Worms in Low Dimensions
 date: 2024-02-28
 description: https://doi.org/10.1371/journal.pcbi.1000028
 tags: eigenworm quantitative-behavioural-analysis
