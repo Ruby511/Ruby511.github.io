@@ -7,7 +7,19 @@ tags: neural-circuits
 categories: journal-club
 ---
 
-This is a story about an `oscillator`,  or a neural pattern generator, is a network of interneurons that produces cyclic outputs, driving motor neurons to generate patterned, continuous movement.
+This is a story about an `oscillator`,  or a neural pattern generator, which is a network of interneurons that produces cyclic outputs, driving motor neurons to generate patterned, continuous movement.
+
+The concept of a central pattern generator (CPG) arose from a debate on the arthropod wing system published in the *Journal of Experimental Biology* (*The Central Nervous Control of Flight in A Locust.* Wilson, 1961). Wilson's semi-isolation experiments showed that proprioceptive reflexes are not necessary for the patterned activity in the thoracic ganglia that likely drives the up-and-down motion of the two wing pairs in desert locusts. This challenged his professor Weis-Fogh's hypothesis of a reflex-driven origin for insect flight.
+
+Later in a 1980 commentary *Are central pattern generators understandable?*, [Dr. Fred Delcomyn](https://www.life.illinois.edu/delcomyn/), a neurophysiologist using insect locomotion as a model behaviour, pointed that the chief challenge in understanding central pattern generators lies not in identifying the functions of individual interneurons within a large neuron population, but in addressing two fundamental questions: 
+1. Can we comprehend an "emergent" property in elemental terms? 
+2. How can we prove that we fully understand a network's function?
+
+>Even if we map every neuron and their synaptic interconnections, it may still be impossible to rigorously understand how the network performs its functions.
+
+With this statement, he expressed the concern that basic functions of the nervous system may not be unapproachable at the level of single cells, similar to how we cannot explain the purpose of a chess game solely by examining the operation of individual chess pieces.
+
+I have no intention of expressing my opinion on the purpose of the ensemble of elements; instead, I would like to share this objective review by Dr. Delcomyn on the neural basis of rhythmic behavior.
 
 <hr>
 
@@ -69,7 +81,8 @@ Delcomyn, F. (1980). Neural basis of rhythmic behaviour in animals. Science, 210
   1. What are the connections in the interneuron network? e.g. What are the wiring of excitatory and inhibitory synapses? What are the composition of synaptic morphology, including chemical synapses and gap junctions?
   2. What are the electrical properties of neurons? e.g. How rhythmic bursting arises from the dynamics of ion channels?
 
-- Interaction of Oscillators: How do multiple oscillatory networks connect to coordinate different body parts?
+
+- Interaction of Oscillators: How do multiple oscillatory networks connect to coordinate different body parts? Is a popupation of interneurons shared between different CPGs?
 
 - Integration of Sensory Input: How sensory input adjust oscillatory frequency and amplitude?
 
