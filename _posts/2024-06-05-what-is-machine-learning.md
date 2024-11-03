@@ -24,6 +24,6 @@ tSNE introduction:
 
 [mastering-t-sne-t-distributed-stochastic-neighbor-embedding](https://medium.com/@sachinsoni600517/mastering-t-sne-t-distributed-stochastic-neighbor-embedding-0e365ee898ea)
 
-[t-distributed Stochastic Neighbor Embedding (t-SNE) | Dimensionality Reduction Techniques (4/5)](https://www.youtube.com/watch?v=U-s8q6HshZw)
+[t-distributed-Stochastic-Neighbor-Embedding(t-SNE)-Dimensionality-Reduction-Techniques-(4/5)](https://www.youtube.com/watch?v=U-s8q6HshZw)
 
 [sklearn-manifold-tsne](https://scikit-learn.org/0.16/modules/generated/sklearn.manifold.TSNE.html)

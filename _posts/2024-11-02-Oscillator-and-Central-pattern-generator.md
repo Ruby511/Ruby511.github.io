@@ -2,7 +2,7 @@
 layout: post
 title: Neural Basis of Rhythmic Behaviour
 date: 2024-11-02
-description: Oscillator and Central-pattern-generator(CPG)
+description: Central oscillator and the debate of our nature
 tags: neural-circuits
 categories: journal-club
 ---
@@ -78,9 +78,9 @@ Delcomyn, F. (1980). Neural basis of rhythmic behaviour in animals. Science, 210
   
 #### Future Directions
 - Nature of Oscillators:
+
   1. What are the connections in the interneuron network? e.g. What are the wiring of excitatory and inhibitory synapses? What are the composition of synaptic morphology, including chemical synapses and gap junctions?
   2. What are the electrical properties of neurons? e.g. How rhythmic bursting arises from the dynamics of ion channels?
-
 
 - Interaction of Oscillators: How do multiple oscillatory networks connect to coordinate different body parts? Is a popupation of interneurons shared between different CPGs?
 

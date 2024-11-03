@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Department of Cell and Systems Biology</p>
-      <p>Ramsay Wright Laboratories M5S3G5</p>
+      <p>Ramsay Wright Laboratories M5S 3G5</p>
       <p>Toronto ON Canada</p>
   - align: left
     image: prof_pic.jpg
